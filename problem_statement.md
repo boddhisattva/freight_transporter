@@ -1,6 +1,6 @@
 ## Background
 
-Shypple is a freight forwarder company. That means we help other companies to
+We are a freight forwarder company. That means we help other companies to
 get their products from one place to another. We must deliver the goods as fast
 as possible. To achieve that, we need to replace some human labor with
 automation. We have part of the process being done via Excel and that is not
@@ -14,7 +14,7 @@ created a service that aggregates lots of information and returns a JSON file
 for us. This MapReduce service returns all shipping options available in the
 database. We have given you a sample JSON response from MapReduce service.
 
-Your job is to create a small service that does some calculations using the
+Your job is to create a Rails application that does some calculations using the
 JSON file.
 
 Exchange rates in the JSON file are based on EUR (For example 2022-01-29 usd
@@ -147,9 +147,8 @@ fastest
 
 1. Please, create one single branch for all the changes.
 2. Make sure your app run on docker and all the dependencies are included on it
-3. Please send a zip file with the solution to this email address, j.souza@shypple.com, once you're done.
-4. The solution must work with standard input and output (stdin and stdout).
-5. For indirect routes, the solution should handle more than two legs.
+3. The solution must work with standard input and output (stdin and stdout).
+4. For indirect routes, the solution should handle more than two legs.
 
 You should provide a solution that make possible to scale because new requirements will come soon.
 
