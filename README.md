@@ -8,7 +8,7 @@ A Ruby on Rails application for finding optimal shipping routes between ports us
 
 * For Fastest: It makes use of Dijkstra's Algorithm
 
-One can find the detailed problem statement [here](https://github.com/boddhisattva/freight_forwarder/blob/main/problem_statement.md)
+One can find the detailed problem statement [here](https://github.com/boddhisattva/freight_transporter/blob/main/problem_statement.md)
 
 ## Route Finding Algorithm - High Level Overview
 ![Routing Algorithm High Level Overview](https://i.imgur.com/FrwgZpp.png)
